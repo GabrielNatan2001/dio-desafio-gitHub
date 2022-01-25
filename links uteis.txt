@@ -1,0 +1,2 @@
+link do Download do git: https://git-scm.com/downloads
+link da DIO: https://web.dio.me/home
